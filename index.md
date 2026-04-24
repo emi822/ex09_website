@@ -10,9 +10,9 @@ I believe that COMP110 would be a more effective course if it could target first
 
 ## Visuals
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="histogram" alt="Visual 1: Histogram. "  width="500"/>
+<img src="histogram.png" alt="Visual 1: Histogram. "  width="500"/>
 
-<img src="static/imgs/logo.png">
+<img src="static/imgs/logo.png" alt="110 logo" width ="500">
 
 ## Conclusion
 After reviewing my models, I was not able to conclude weather or not AP Computer Science completion was related to higher levels of understanding and lower reported difficulty.  
