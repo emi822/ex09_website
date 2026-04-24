@@ -11,11 +11,19 @@ I believe that COMP110 would be a more effective course if it could target first
 ## Visuals
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 
+To begin my analysis, I constructed a comparative boxplot to visualize the average difficulty reportings from students who had vs. had not taken AP Computer Science prior to COMP110. 
+
 <img src="boxplot.png" alt="Boxplot for AP Computer Science"  width="500"/>
+
+Next, I generated a histogram for the average understanding level in Alyssa's class, as her class had a higher percentage of students that had taken AP Computer Science.
 
 <img src="histogram1.png" alt=" Histogram for Alyssa" width ="500">
 
+For Comparison, I constructed a histogram for reported understanding in Izzi's class as well:
+
 <img src="histogram2.png" alt=" Histogram for Izzi" width ="500">
+
+Finally, I created stacked bar charts for each of the classes, so that I could visualize the distribution of understanding in terms of AP course completion.
 
 <img src="stacked_bar_chart.png" alt="Izzi's Class: Understanding and AP Completion" width ="500">
 
