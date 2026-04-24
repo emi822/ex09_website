@@ -11,7 +11,7 @@ I believe that COMP110 would be a more effective course if it could target first
 ## Visuals
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 
-<img src="boxplot.png" alt="Visual 1: Boxplot."  width="500"/>
+<img src="boxplot.png" alt="Boxplot for AP Computer Science"  width="500"/>
 
 <img src="histogram1.png" alt=" Histogram for Alyssa" width ="500">
 
